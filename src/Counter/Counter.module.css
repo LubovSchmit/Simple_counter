@@ -1,0 +1,18 @@
+
+.num {
+
+text-align: center;
+        background-color: #61dafb;
+}
+
+
+.buttons {
+
+    background-color: #61dafb;
+
+}
+.error {
+    color: red;
+    text-align: center;
+    background-color: #61dafb;
+}
